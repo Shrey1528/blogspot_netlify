@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Huffington Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "The history of political blogging might usefully be divided into the periods pre- and post-Huffington. Before the millionaire socialite Arianna Huffington decided to get in on the act, bloggers operated in a spirit of underdog solidarity. They hated the mainstream media - and the feeling was mutual."
+    },
+    {
+      "id": 2,
+      "title": "Boing Boing",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lego reconstructions of pop videos and cakes baked in the shape of iPods are not generally considered relevant to serious political debate. But even the most earnest bloggers will often take time out of their busy schedule to pass on some titbit of mildly entertaining geek ephemera. No one has done more to promote pointless, yet strangely cool, time-wasting stuff on the net than the editors of Boing Boing (sub title: A Directory of Wonderful Things). It launched in January 2000 and has had an immeasurable influence on the style and idiom of blogging. But hidden among the pictures of steam-powered CD players and Darth Vader tea towels there is a steely, ultra-liberal political agenda: championing the web as a global medium free of state and corporate control."
+    },
+    {
+      "id": 3,
+      "title": "Techcrunch",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Techcrunch began in 2005 as a blog about dotcom start-ups in Silicon Valley, but has quickly become one of the most influential news websites across the entire technology industry. Founder Michael Arrington had lived through the internet goldrush as a lawyer and entrepreneur before deciding that writing about new companies was more of an opportunity than starting them himself. His site is now ranked the third-most popular blog in the world by search engine Technorati, spawning a mini-empire of websites and conferences as a result. Business Week named Arrington one of the 25 most influential people on the web, and Techcrunch has even scored interviews with Barack Obama and John McCain."
+    },
+    {
+      "id": 4,
+      "title": "Kottke",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "One of the early wave of blogging pioneers, web designer Jason Kottke started keeping track of interesting things on the internet as far back as 1998. The site took off, boosted partly through close links to popular blog-building website Blogger (he later married one of the founders). And as the phenomenon grew quickly, Kottke became a well-known filter for surfers on the lookout for interesting reading."
+    },
+    {
+      "id": 5,
+      "title": "The Drudge Report",
+      "datetime": "April 12, 2022 4:40:04 PM",
+      "body": "The Report started life as an email gossip sheet, and then became a trashy webzine with negligible traffic. But thanks to the decision in 1998 to run a scurrilous rumour – untouched by mainstream media – about Bill Clinton and a White House intern named Monica Lewinsky, it became a national phenomenon. Recent scoops include Barack Obama dressed in tribal garb and the fact Prince Harry was serving in Afghanistan. Drudge is scorned by journalists and serious bloggers for his tabloid sensibilities, but his place in the media history books is guaranteed. And much though they hate him, the hacks all still check his front page – just in case he gets another president-nobbling scoop."
+    }
+  ]
+}
